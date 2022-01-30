@@ -5,7 +5,7 @@
 - 🎓 I'm currently a student at [Fatec Araras](https://fatecararas.cps.sp.gov.br/) college
 - 💻 I’m currently working at [Willis Towers Watson](https://www.wtwco.com/pt-BR)
 - 🌱 I’m currently learning Web Development with **Node.JS, React.JS, Next.JS, SQL, Typescript**
-- ⚡ Fun fact:  I ❤️️ ☕ && I ❤️️ 🎸
+- ⚡ Fun fact:  I ❤️️ ☕ and 🎸
 
 <br><br>
 
