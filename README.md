@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcos Albuquerque</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camposmf&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior RPA Developer and a student with focus on Web development
+- 🔥 Junior Back-end Developer and a student with focus on Web development.
 - 🎓 I'm currently a student at [Fatec Osasco](https://fatecosasco.edu.br/fatec/) college
 - 💻 I’m currently working at [Willis Towers Watson](https://www.wtwco.com/pt-BR)
 - 🌱 I’m currently learning Web Development with **ASP.NET, Angular.JS, SQL, MYSQL, Flutter, Typescript**
