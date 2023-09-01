@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camposmf&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior RPA Developer and a student with focus on Web development
-- 🎓 I'm currently a student at [Fatec Araras](https://fatecararas.cps.sp.gov.br/) college
+- 🎓 I'm currently a student at [Fatec Osasco](https://fatecosasco.edu.br/fatec/) college
 - 💻 I’m currently working at [Willis Towers Watson](https://www.wtwco.com/pt-BR)
-- 🌱 I’m currently learning Web Development with **Node.JS, React.JS, Next.JS, SQL, Typescript**
+- 🌱 I’m currently learning Web Development with **ASP.NET, Angular.JS, SQL, MYSQL, Flutter, Typescript**
 - ⚡ Fun fact:  I ❤️️ ☕ and 🎸
 
 <br><br>
