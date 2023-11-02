@@ -49,7 +49,6 @@
 </p>
 
 <br/>
-<br/>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 <br/>
